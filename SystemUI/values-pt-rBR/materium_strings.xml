@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="face_unlock_recognizing">Reconhecendo o rosto...</string>
+    <string name="navigation_bar_format_title">Formato da barra de navegação</string>
+    <string name="lockscreen_hidden">Nenhum</string>
+    <string name="save">Salvar</string>
+    <string name="reset">Redefinir</string>
+    <string name="right">Direita</string>
+    <string name="no_home_title">Nenhum botão inicial encontrado</string>
+    <string name="no_home_message">É necessário um botão de início para poder navegar neste dispositivo, adicione um botão inicial antes de salvar.</string>
+    <string name="select_button">Selecione o botão para adicionar</string>
+    <string name="left">Esquerda</string>
+</resources>

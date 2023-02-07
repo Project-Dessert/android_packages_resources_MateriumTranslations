@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="materium_version">Materium-Version</string>
+    <string name="selinux_status">SELinux-Status</string>
+    <string name="selinux_status_disabled">Deaktiviert</string>
+    <string name="selinux_status_permissive">Freizügig</string>
+    <string name="selinux_status_enforcing">Strikt</string>
+    <string name="window_blur_mat">Unschärfe aktivieren</string>
+    <string name="device_info_protected_single_press">Tippen, um Infos anzuzeigen</string>
+    <string name="materium_maintainer_title">Gerätemaintainer</string>
+    <string name="materium_maintainer_unknown">Unbekannt</string>
+    <string name="face_unlock_method_title">Gesichtsentsperrung auf Sperrbildschirm erlauben</string>
+    <string name="face_unlock_method_default">Wenn der Bildschirm an ist</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Existierenden Scan entfernen und neuen hinzufügen</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Gesichtsscan wiederholen</string>
+    <string name="face_redo_confirm_btn">Wiederholen</string>
+    <string name="face_redo_warning_msg">Willst du den existierenden Gesichtsscan entfernen und einen neuen hinzufügen\?</string>
+    <string name="face_unlock_method_swipe">Beim Wischen auf dem Sperrbildschirm</string>
+    <string name="duration_less_than_one_minute">Weniger als eine Minute</string>
+    <string name="screen_time_summary_usage_today">Heute %1$s</string>
+</resources>

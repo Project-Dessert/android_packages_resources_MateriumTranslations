@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="materium_maintainer_title">Pemelihara perangkat</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="window_blur_mat">Aktifkan blur</string>
+    <string name="device_info_protected_single_press">Ketuk untuk menampilkan info</string>
+    <string name="materium_maintainer_unknown">Tidak diketahui</string>
+    <string name="materium_version">Versi Materium</string>
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Dinonaktifkan</string>
+</resources>

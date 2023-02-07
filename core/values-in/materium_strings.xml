@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="face_unlock_disabled_idle">Buka kunci wajah dinonaktifkan karena tidak aktif</string>
+    <string name="permdesc_fakePackageSignature">Mengizinkan aplikasi berpura-pura menjadi aplikasi yang berbeda. Aplikasi hasad mungkin dapat menggunakan ini untuk mengakses data pribadi. Penggunaan yang sah termasuk emulator yang berpura-pura menjadi tirunya. Bijak lah memberikan ijin ke padahal aplikasi!</string>
+</resources>

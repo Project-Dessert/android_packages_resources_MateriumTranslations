@@ -1,0 +1,46 @@
+<!--
+  Copyright (C) 2022 Project Materium
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+	<string name="category_logo">Materium Logo</string>
+	<string name="category_mdyou">Material You</string>
+	<string name="category_stellar">Nostalgic Space</string>
+	<string name="author_megh">Megh</string>
+	<string name="author_qirkl">Qirkl</string>
+	<string name="author_usif">Usif</string>
+	<string name="wallpaper_stellar0">Stars in the Sky</string>
+	<string name="wallpaper_stellar1">The Moon</string>
+	<string name="wallpaper_stellar2">Over the Clouds</string>
+	<string name="wallpaper_stellar3">Blue Planet</string>
+	<string name="wallpaper_stellar4">Red Planet</string>
+	<string name="wallpaper_stellar5">Earth</string>
+	<string name="wallpaper_mdyou0">Rectangle</string>
+	<string name="wallpaper_mdyou1">Unhappy Rectangle</string>
+	<string name="wallpaper_mdyou2">Deep Night</string>
+	<string name="wallpaper_mdyou3">Just Blue</string>
+	<string name="wallpaper_mdyou4">Lava</string>
+	<string name="wallpaper_mdyou5">Pink Party</string>
+	<string name="wallpaper_mdyou6">Blink</string>
+	<string name="wallpaper_mdyou7">Dark Mode</string>
+	<string name="wallpaper_mdyou8">Rectangle on Waves</string>
+	<string name="wallpaper_mdyou9">Red Waves</string>
+	<string name="wallpaper_mdyou10">Toast</string>
+	<string name="wallpaper_logo">Logo on Waves</string>
+	<string name="wallpaper_internal">Internal Beta</string>
+	<string name="wallpaper_usif0">Logo on blurred orange</string>
+	<string name="wallpaper_usif1">Logo on blurred purple</string>
+	<string name="wallpaper_usif2">Logo on blurred purple-blue</string>
+	<string name="wallpaper_usif3">Logo on blurred sky blue</string>
+</resources>

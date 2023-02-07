@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Setzen</string>
+    <string name="color_default">Standard</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="color_picker_simple_dialog_title">Wähle eine LED-Farbe aus</string>
+    <string name="active_edge_app_select_title">Wähle eine App aus</string>
+    <string name="active_edge_activity_select_title">Wähle eine Aktivität aus</string>
+    <string name="edit_hint">Wert</string>
+    <string name="seek_value_edit_label">Wert setzen</string>
+    <string name="ok">OK</string>
+    <string name="dialog_color_picker">Farbwähler</string>
+    <string name="press_color_to_apply">Drücke unten auf eine Farbe, um sie anzuwenden</string>
+    <string name="hex">Hex-Code:</string>
+</resources>

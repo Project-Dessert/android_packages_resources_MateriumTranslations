@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_logo">Materium-Logo</string>
+    <string name="category_mdyou">Material You</string>
+    <string name="category_stellar">Nostalgischer Weltraum</string>
+    <string name="author_megh">Megh</string>
+    <string name="author_qirkl">Qirkl</string>
+    <string name="wallpaper_stellar0">Sterne im Himmel</string>
+    <string name="wallpaper_stellar1">Der Mond</string>
+    <string name="wallpaper_stellar2">Über den Wolken</string>
+    <string name="wallpaper_stellar3">Blauer Planet</string>
+    <string name="wallpaper_stellar4">Roter Planet</string>
+    <string name="wallpaper_stellar5">Die Erde</string>
+    <string name="wallpaper_mdyou0">Viereck</string>
+    <string name="wallpaper_mdyou1">Unglückliches Viereck</string>
+    <string name="wallpaper_mdyou2">Tiefe Nacht</string>
+    <string name="wallpaper_mdyou3">Einfach Blau</string>
+    <string name="wallpaper_mdyou4">Lava</string>
+    <string name="wallpaper_mdyou5">Pinke Party</string>
+    <string name="wallpaper_mdyou6">Blink</string>
+    <string name="wallpaper_mdyou7">Dunkler Modus</string>
+    <string name="wallpaper_mdyou8">Viereck auf Wellen</string>
+    <string name="wallpaper_mdyou9">Rote Wellen</string>
+    <string name="wallpaper_mdyou10">Toast</string>
+    <string name="wallpaper_logo">Logo auf Wellen</string>
+    <string name="wallpaper_internal">Interne Beta</string>
+</resources>

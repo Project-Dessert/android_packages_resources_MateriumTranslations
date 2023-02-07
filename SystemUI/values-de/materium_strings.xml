@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="face_unlock_recognizing">Erkenne Gesicht...</string>
+    <string name="systemui_tuner_navbar_title">Layout</string>
+    <string name="navigation_bar_format_title">Navigationsleistenformat</string>
+    <string name="lockscreen_default">Standard</string>
+    <string name="lockscreen_hidden">Nichts</string>
+    <string name="custom_hint">Vom Icon wischen, um es auszuwählen</string>
+</resources>
